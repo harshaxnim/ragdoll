@@ -19,6 +19,3 @@ To execute, type `./runThis` after making the project (see `make`)
 * [Advanced Character Physics, by Thomas Jakobsen](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf).
 * OpenGL Documentation
 * StackExchange- StackOverflow, GameDevelopment
-
-## Caveats/Deviations from the paper
-* Not a 3D simulation, but not very difficult to change if required.
